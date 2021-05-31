@@ -21,3 +21,15 @@ After initialized, use the **Black Concrete** to place on the board to any frame
 
 Finally, using the command `/function 4_color_theorem:main` , and it will automatically fill in according to the four-color theorem.  
 最后，使用命令`/function 4_color_theorem:main`，系统会自动根据所绘图形进行求解填充。
+
+# Other Useful Functions
+其他常用函数
+
+`/function 4_color_theorem:clear_storage` used to clear the storage, and generally do not need to do it manually.  
+`/function 4_color_theorem:clear_storage` 可用于清除storage，一般不需要手动执行。
+
+`/function 4_color_theorem:clear_fill` used to clear the concrete on the painting board, but have no effects to the black concrete.  
+`/function 4_color_theorem:clear_fill` 可用于清除画板上的蓝、绿、黄、红色的填充而对边界没有影响。
+
+`/function 4_color_theorem:clear_board` used to clear everything on the board, including black concrete.  
+`/function 4_color_theorem:clear_board` 可用于清除画板上的所有物品，包括各种颜色的填充和边界。
