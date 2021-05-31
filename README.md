@@ -1,8 +1,7 @@
 This is a datapack for minecraft to find a solution of the four-color theorem.
 
 # How to Use It
-Load this datapack in a classic superflat save with Minecraft version 1.15+.
-
+Load this datapack in a classic superflat save with Minecraft Java Edition version 1.15+.
 Then, type `/function 4_color_theorem:init` to initialize this datapack. This will build necessary scoreboard, summon a area effect cloud to locate, and create a board for drawing.
 
 Due to the large amount of calculation, please increase the number of commands executed per tick. It would be better to set at least 800000. Use `/gamerule maxCommandChainLength 800000` to set the commands to be executed per tick.
