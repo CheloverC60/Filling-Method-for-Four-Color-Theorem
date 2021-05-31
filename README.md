@@ -2,7 +2,8 @@ This is a datapack for minecraft to find a solution of the four-color theorem.
 这是一个用于在Minecraft中求解四色定理的一个数据包。
 
 # How to Use It  
-# 用法
+用法
+
 Load this datapack in a classic superflat save with Minecraft Java Edition version 1.15+.  
 使用Minecraft Java版1.15+建立经典超平坦存档并加载数据包。
 
@@ -16,7 +17,7 @@ After initialized, use the **Black Concrete** to place on the board to any frame
 初始化完毕后，使用**黑色混凝土**在画板上摆放任意可用于四色定理求解的图案框架。
 
 **Attention:** Part of the algorithm uses exhaustive solution, so make sure the number of reigions does not exceed 64.  
-**注意：**由于部分算法为穷举求解，因此请确保分区的数量不超过64。
+**注意：** 由于部分算法为穷举求解，因此请确保分区的数量不超过64。
 
 Finally, using the command `/function 4_color_theorem:main` , and it will automatically fill in according to the four-color theorem.  
 最后，使用命令`/function 4_color_theorem:main`，系统会自动根据所绘图形进行求解填充。
