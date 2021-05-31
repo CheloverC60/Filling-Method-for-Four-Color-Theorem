@@ -7,8 +7,8 @@ This is a datapack for minecraft to find a filling method of the four-color theo
 Load this datapack in a classic superflat save with Minecraft Java Edition version 1.15+.  
 使用Minecraft Java版1.15+建立经典超平坦存档并加载数据包。
 
-Then, type `/function 4_color_theorem:init` to initialize this datapack. This will build necessary scoreboard, summon a area effect cloud to locate, and create a board for drawing.  
-然后输入`/function 4_color_theorem:init`进行初始化。这会建立必要的计分板，生成一个用于定位的药水云，并生成一个画板。
+Type `/function 4_color_theorem:init` to initialize this datapack. This will build necessary scoreboard, summon a area effect cloud to locate, and create a board for drawing.  
+输入`/function 4_color_theorem:init`进行初始化。这会建立必要的计分板，生成一个用于定位的药水云，并生成一个画板。
 
 Due to the large amount of calculation, please increase the number of commands executed per tick. It would be better to set at least 800000. Use `/gamerule maxCommandChainLength 800000` to set the commands to be executed per tick.  
 由于数据包计算量较大，请调大每刻执行的命令量，建议最少800000。使用`/gamerule maxCommandChainLength 800000`来设置每刻执行的命令量。
