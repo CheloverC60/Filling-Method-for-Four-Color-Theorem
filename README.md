@@ -5,7 +5,7 @@ Load this datapack in a classic superflat save with Minecraft version 1.15+.
 
 Then, type `/function 4_color_theorem:init` to initialize this datapack. This will build necessary scoreboard, summon a area effect cloud to locate, and create a board for drawing.
 
-Due to the large amount of calculation, please increase the number of commands executed per tick. It would be better to set at least 800000. Use '/gamerule maxCommandChainLength 800000' to set the commands to be executed per tick.
+Due to the large amount of calculation, please increase the number of commands executed per tick. It would be better to set at least 800000. Use `/gamerule maxCommandChainLength 800000` to set the commands to be executed per tick.
 
 After initialized, use the Black Concrete to place on the board to any picture that can be used for drawing.
 
