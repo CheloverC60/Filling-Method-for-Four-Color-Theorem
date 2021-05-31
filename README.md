@@ -1,5 +1,5 @@
-This is a datapack for minecraft to find a solution of the four-color theorem.  
-这是一个用于在Minecraft中求解四色定理的一个数据包。
+This is a datapack for minecraft to find a filling method of the four-color theorem.  
+这是一个用于在Minecraft中进行四色定理填充的一个数据包。
 
 # How to Use It  
 用法
