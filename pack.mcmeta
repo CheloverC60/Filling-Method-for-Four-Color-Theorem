@@ -1,6 +1,15 @@
 {
     "pack": {
         "pack_format": 5,
-        "description": ""
+        "description": [
+            {
+                "text": "This is a datapack which can find a filling method of the four-color theorem.\n",
+                "color": "aqua"
+            },
+            {
+                "text": "This datapack is made by Chelover_C60.\n",
+                "color": "green"
+            }
+        ]
     }
 }
